@@ -5,10 +5,12 @@
 
 #index-header {
     color: #f5f5f5;
+    font-family: "Georgia";
 }
 
 button{
     font-size:25px;
+    font-family: "Georgia", "Times New Roman", serif;
 }
 
 #pbcc-cookies {
@@ -26,4 +28,10 @@ button{
     color: #546f22;
 }
 
+h1, h2, h4 {
+    font-family: "Georgia", "Times New Roman", serif;
+}
 
+li {
+    font-family: "Helvetica", sans-serif;
+}
